@@ -22,11 +22,11 @@ The module implements an **Event-Driven Architecture leveraging the Transactiona
 
 ### 2.1 System Component Diagram
 
-* Component diagram (PNG): [architectural_diagram.png](architectural_diagram.png)
+* Component diagram (PNG): [architectural_diagram_v2.png](architectural_diagram_v2.png)
 
 ### 2.2 Sequence of Execution
 
-* Sequence diagram (PNG): [sequence_diagram.png](sequence_diagram.png)
+* Sequence diagram (PNG): [sequence_diagram_v2.png](sequence_diagram_v2.png)
 
 ---
 

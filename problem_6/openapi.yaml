@@ -135,7 +135,7 @@ paths:
                           type: integer
         '401':
           description: Unauthorized
-  
+
   /api/v1/leaderboard/stream:
     get:
       summary: Open a persistent Server-Sent Events stream for real-time leaderboard updates
@@ -150,7 +150,6 @@ paths:
                 type: string
         '401':
           description: Unauthorized
-
 
 components:
   securitySchemes:
